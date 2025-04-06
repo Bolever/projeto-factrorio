@@ -12,7 +12,7 @@ html{
 
 body{
     flex: auto;
-    background-image: url(/imagem/logos/page-background.png);
+    background-image: url(../imagem/logos/page-background.png);
     font-family: Arial, Helvetica, sans-serif;
 }
 
