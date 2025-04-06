@@ -65,8 +65,9 @@ main > h2{
 }
 
 main > p{
+    margin: 10px;
     padding: 20px 3px 10px 4px;
-    text-indent: 10px;
+    text-indent: 15px;
     line-height: 1.4;
 }
 
